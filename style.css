@@ -19,7 +19,15 @@ body{
     
 }
 
+
+
+/* Boxes Related (Like Warning, Note, Restricted, Confirmed). */
 .WarningBox{
+
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-bottom: 14px;
 
     background-color: rgba(117, 119, 0, 0.329);
     color: rgb(0, 0, 0);
@@ -48,6 +56,11 @@ body{
 
 .NoteBox{
 
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+
     background-color: rgba(0, 48, 119, 0.329);
     color: aliceblue;
 
@@ -75,6 +88,11 @@ body{
 
 .RestrictBox{
 
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+
     background-color: rgba(119, 0, 0, 0.329);
     color: aliceblue;
 
@@ -98,4 +116,79 @@ body{
     align-items: left;
 
 
+}
+
+.ConfirmBox{
+
+    margin-left: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+    margin-bottom: 14px;
+
+    background-color: rgba(0, 119, 16, 0.329);
+    color: aliceblue;
+
+    width: fit-content;
+    
+    border: rgb(9, 255, 0);
+
+    border-style: solid;
+
+    background-clip: content-box;
+
+    display: flex;
+    flex-direction: column;
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    font-family:'Orbitron';
+
+    align-items: left;
+
+
+}
+
+
+
+/* Topic Related. */
+.Topic{
+    background-color: rgba(255, 228, 196, 0.651);
+    border-color: bisque;
+    border-style: solid;
+
+    width: 1080px;
+    
+   
+    border-top-left-radius: 32px;
+
+    text-align: center;
+    
+
+    display: flex;
+    flex-direction: column;
+
+    background-position: center;
+
+}
+
+.TopicTitle{
+    text-align: left;
+    margin-left: 14px;
+}
+
+.TopicSubTitle{
+    text-align: left;
+    margin-left: 14px;
+}
+
+
+.TopicDesc{
+    text-align: left;
+    margin-left: 14px;
+}
+
+.TopicImage{
+    align-items: center;
 }
