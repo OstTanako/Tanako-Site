@@ -9,6 +9,16 @@ Although this repository is not licensed, you are free to spy on the code and us
 
 **⚠️ • WARNING**
 
-**1. Use of assets and audiovisual materials created by me for profit or to claim as own is not permitted.**
+1. Use of assets and audiovisual materials created by me for profit or to claim as own is not permitted.
 
-**2. The sources used may contain For specific licenses, you can check them by navigating to ``` Assets > Fonts > Font Licenses```**
+2. The sources used may contain For specific licenses, you can check them by navigating to ``` Assets > Fonts > Font Licenses```
+
+3. You must credit me in your repository.
+
+To modify the project you will need:
+
+- Git (Recommended)
+- Visual Studio Code (Or another IDE)
+
+```bash
+git clone```
