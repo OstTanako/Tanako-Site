@@ -13,4 +13,6 @@ This repository uses a custom license; you should check it before doing anything
 After installing git copy this command on the terminal (make sure you setuped your UserName and Email before).
 
 ```bash
-git clone https://github.com/OstTanako/Tanako-Site.git
+git clone https://github.com/OstTanako/Tanako-Site.git```
+
+> The website uses **Netlify** for hostage but you can use another hostage platform.
