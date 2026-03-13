@@ -20,5 +20,8 @@ To modify the project you will need:
 - Git (Recommended)
 - Visual Studio Code (Or another IDE)
 
+After installing git copy this command on the terminal (make sure you setuped your UserName and Email before).
+
 ```bash
-git clone```
+git clone https://github.com/OstTanako/Tanako-Site.git
+```
