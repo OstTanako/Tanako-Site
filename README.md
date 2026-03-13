@@ -4,6 +4,11 @@ Official Website Repository
 
 # Coping
 
-You're allowed to modify it, since you don't use the assets made by me.
+Although this repository is not licensed, you are free to spy on the code and use it as long as you do not imitate the original. 
 
-**NOTE: Some font files can have different lincenses.**
+
+**⚠️ • WARNING**
+
+**1. Use of assets and audiovisual materials created by me for profit or to claim as own is not permitted.**
+
+**2. The sources used may contain For specific licenses, you can check them by navigating to ``` Assets > Fonts > Font Licenses```**
