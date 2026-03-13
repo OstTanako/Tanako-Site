@@ -23,5 +23,7 @@ To modify the project you will need:
 After installing git copy this command on the terminal (make sure you setuped your UserName and Email before).
 
 ```bash
+
 git clone https://github.com/OstTanako/Tanako-Site.git
+
 ```
