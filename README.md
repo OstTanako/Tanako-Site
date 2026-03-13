@@ -15,7 +15,8 @@ Although this repository is not licensed, you are free to spy on the code and us
 
 3. You must credit me in your repository.
 
-To modify the project you will need:
+
+**⚒️ • Needed Tools**
 
 - Git (Recommended)
 - Visual Studio Code (Or another IDE)
