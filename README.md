@@ -2,8 +2,19 @@
 
 Official Website Repository
 
-# Coping
+# ⚙️ • Coping & Modding
+This repository uses a custom license; you should check it before doing anything foolish.
 
-You're allowed to modify it, since you don't use the assets made by me.
 
-**NOTE: Some font files can have different lincenses.**
+**⚒️ • Needed Tools**
+- Git (Recommended)
+- Visual Studio Code (Or another IDE)
+
+After installing git copy this command on the terminal (make sure you setuped your UserName and Email before).
+
+```bash
+git clone https://github.com/OstTanako/Tanako-Site.git
+```
+
+
+> The website uses **Netlify** for hostage but you can use another hostage platform.
