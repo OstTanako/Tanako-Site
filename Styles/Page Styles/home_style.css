@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Orbitron";
+    src: url(Assets/Fonts/FontFiles/Orbitron/Orbitron-VariableFont_wght.ttf);
+}
+
+body{
+    background-image: url(Assets/Branding/ot_bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
